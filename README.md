@@ -18,10 +18,10 @@
 <img alt="App Icon" width="270" height="270" src="https://github.com/user-attachments/assets/e77802d0-0c5a-42c3-9971-29f4ff51e584"></p>
 <br>
 <p align="center">
-<img alt="Project Image 1" width="250" src="https://github.com/user-attachments/assets/45da0f73-11d8-4f48-bf59-269a5448bc70">
-<img alt="Project Image 2" width="250" src="https://github.com/user-attachments/assets/5fc5f359-e624-4bed-af9c-4c3ccfb7ec49">
-<img alt="Project Image 3" width="250" src="https://github.com/user-attachments/assets/6b2e6f90-f30c-4777-98ab-c57bfa276022">
-<img alt="Project Image 4" width="250" src="https://github.com/user-attachments/assets/6b2e6f90-f30c-4777-98ab-c57bfa276022"></p>
+<img alt="Project Image 1" width="250" src="https://github.com/user-attachments/assets/3585a633-03f4-433c-a484-1ef48d35d102">
+<img alt="Project Image 2" width="250" src="https://github.com/user-attachments/assets/ac0326c8-7e20-43a8-952c-e41c817f30e8">
+<img alt="Project Image 3" width="265" src="https://github.com/user-attachments/assets/13b62e5e-6515-4ed5-ab9a-6b9f0787356f">
+<img alt="Project Image 4" width="250" src="https://github.com/user-attachments/assets/bec51f42-effa-46fd-b435-1c0ef5cf3d65"></p>
 <br>
 
 ## 🤝 Equipe de Desenvolvimento
